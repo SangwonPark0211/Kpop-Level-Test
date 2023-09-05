@@ -1,64 +1,60 @@
 #Which of the following is not a song by Monsta X?
-EDRAMARAMA
-IShoot out
-ALove Killa
-BFake Love(ANS)
+0DRAMARAMA
+0Shoot out
+0Love Killa
+1Fake Love(ANS)
 #Which of the following is not a song by BTS?
-EBlood, Sweat and Tears
-IButter
-APlaying With Fire(ANS)
-BDynamite
+0Blood, Sweat and Tears
+0Butter
+1Playing With Fire(ANS)
+0Dynamite
 #Which of the following is not a song by NewJeans?
-EHype boy
-IICY(ANS)
-AAttention
-BSuper shy
+0Hype boy
+1ICY(ANS)
+0Attention
+0Super shy
 #How many members are in Red Velvet?
-S3
-N4
-A5(ANS)
-B6
+03
+04
+15(ANS)
+06
 #How many members are in Twice?
-S6
-N7
-A8
-B9(ANS)
+06
+07
+08
+19(ANS)
 #How many members are in SEVENTEEN?
-S13(ANS)
-N14
-A15
-B17
+113(ANS)
+014
+015
+017
 #Which group debuted the fastest?
-JNMIXX
-POH MY GIRL(ANS 2015)
-ASTACY
-BNewJeans
+0NMIXX
+1OH MY GIRL(ANS 2015)
+0STACY
+0NewJeans
 #Which group debuted the latest?
-JASTRO(2016)
-PBTS(2013)
-ANCT(2016)
-BStray Kids(ANS 2018)
+0ASTRO(2016)
+0BTS(2013)
+0NCT(2016)
+1Stray Kids(ANS 2018)
 #Who is not a member of BTS?
-JRM
-PKAI
-AJimin
-BJungkook
+0RM
+1KAI
+0Jimin
+0Jungkook
 #Who is not a member of BLACKPINK?
-JLisa
-PJisu
-AJennie
-BNayeon
-#Which of the following is correct group-fandom pair?
-TBTS-ARMY
-FTWICE-ONCE
-AMONSTA X-MONBEBE
-BTXT-AROHA
+0Lisa
+0Jisu
+0Jennie
+1Nayeon
+#Which of the following is not correct group-fandom pair?
+0BTS-ARMY
+0TWICE-ONCE
+0MONSTA X-MONBEBE
+1TXT-AROHA
 #Which of the following is not a boy group?
-TEXO
-FIVE
-ASEVENTEEN
-BBTOB
-#고급 레스토랑에서 맛있는 음식을 먹고 난 뒤
-T아무리 맛있어도 비싸서 별로인 것 같다
-F좀 비싸도 맛있으니까 만족이다
-
+0EXO
+1IVE
+0SEVENTEEN
+0BTOB

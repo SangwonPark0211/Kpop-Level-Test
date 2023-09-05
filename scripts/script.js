@@ -3,7 +3,8 @@ var numOfQuiz = 0;
 var answerData=[];
 var widthOfItem = 350;
 var currentCard = 0;
-var mbtiData = {'E':0, 'I':0, 'S':0, 'N':0, 'T':0, 'F':0, 'J':0,  'P':0};
+// var mbtiData = {'E':0, 'I':0, 'S':0, 'N':0, 'T':0, 'F':0, 'J':0, 'P':0};
+var mbtiData = {'0':0, '1':0};
 var mbti = "";
 
 var slider = null;
@@ -86,17 +87,15 @@ function moveSlider(dir)
     {
       mbtiData[ quizData[i][answerData[i]+1][1] ] ++;
     }
-    mbti += compMBTI('E','I') + compMBTI('S','N') + compMBTI('T','F') + compMBTI('J','P');
+    // mbti += compMBTI('E','I') + compMBTI('S','N') + compMBTI('T','F') + compMBTI('J','P');
+    mbti += compMBTI('0', '1');
     return;
   }
   updateProgressBar();
 }
 function compMBTI(a,b)
 {
-  if(mbtiData[a] > mbtiData[b])
-    return a;
-  else
-    return b;
+  return mbtiData[b];
 }
 function finish(){
   window.location.href = "finish.html#"+mbti;

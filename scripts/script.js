@@ -95,7 +95,7 @@ function moveSlider(dir)
 }
 function compMBTI(a,b)
 {
-  return mbtiData[b];
+  return String(mbtiData[b]);
 }
 function finish(){
   window.location.href = "finish.html#"+mbti;

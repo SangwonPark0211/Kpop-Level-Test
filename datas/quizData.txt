@@ -34,9 +34,9 @@
 0STACY
 0NewJeans
 #Which group debuted the latest?
-0ASTRO(2016)
-0BTS(2013)
-0NCT(2016)
+0ASTRO
+0BTS
+0NCT
 1Stray Kids
 #Who is not a member of BTS?
 0RM

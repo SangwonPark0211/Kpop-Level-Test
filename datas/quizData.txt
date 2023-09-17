@@ -2,42 +2,42 @@
 0DRAMARAMA
 0Shoot out
 0Love Killa
-1Fake Love(ANS)
+1Fake Love
 #Which of the following is not a song by BTS?
 0Blood, Sweat and Tears
 0Butter
-1Playing With Fire(ANS)
+1Playing With Fire
 0Dynamite
 #Which of the following is not a song by NewJeans?
 0Hype boy
-1ICY(ANS)
+1ICY
 0Attention
 0Super shy
 #How many members are in Red Velvet?
 03
 04
-15(ANS)
+15
 06
 #How many members are in Twice?
 06
 07
 08
-19(ANS)
+19
 #How many members are in SEVENTEEN?
-113(ANS)
+113
 014
 015
 017
 #Which group debuted the fastest?
 0NMIXX
-1OH MY GIRL(ANS 2015)
+1OH MY GIR
 0STACY
 0NewJeans
 #Which group debuted the latest?
 0ASTRO(2016)
 0BTS(2013)
 0NCT(2016)
-1Stray Kids(ANS 2018)
+1Stray Kids
 #Who is not a member of BTS?
 0RM
 1KAI

@@ -48,7 +48,7 @@
 0Jisu
 0Jennie
 1Nayeon
-#Which group-fandom pari is not correct?
+#Which group-fandom pair is not correct?
 0BTS-ARMY
 0TWICE-ONCE
 0MONSTA X-MONBEBE

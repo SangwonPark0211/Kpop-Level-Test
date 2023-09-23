@@ -28,7 +28,7 @@
 014
 015
 017
-#Which group debuted the fastest?
+#Which group debuted the earliest?
 0NMIXX
 1OH MY GIR
 0STACY

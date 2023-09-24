@@ -30,7 +30,7 @@
 017
 #Which group debuted the earliest?
 0NMIXX
-1OH MY GIR
+1OH MY GIRL
 0STACY
 0NewJeans
 #Which group debuted the latest?
@@ -45,7 +45,7 @@
 0Jungkook
 #Who is not a member of BLACKPINK?
 0Lisa
-0Jisu
+0Jisoo
 0Jennie
 1Nayeon
 #Which group-fandom pair is not correct?
